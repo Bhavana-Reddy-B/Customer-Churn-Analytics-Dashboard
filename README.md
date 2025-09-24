@@ -118,6 +118,3 @@ An interactive **Churn Analysis Dashboard** was created with 5 key sections:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License – feel free to use and modify.
