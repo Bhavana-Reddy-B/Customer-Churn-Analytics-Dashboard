@@ -112,9 +112,10 @@ An interactive **Churn Analysis Dashboard** was created with 5 key sections:
 **Bhavana Reddy**  
 *Data Visualization Expert | Business Intelligence Professional*
 
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/bhavanab28033/)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/bhavanareddyy/)**
 - 📧 **Email**: reddybhavanapreethamb@gmail.com
 - 💼 **[Portfolio](https://github.com/Bhavana-Reddy-B)**
 
 ---
+
 
